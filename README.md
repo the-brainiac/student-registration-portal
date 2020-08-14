@@ -7,14 +7,14 @@ https://registrationportal.pythonanywhere.com/
 ## Tools used to build this:
 
 ### Framework
-Django
+  Django
 
 ### Front-End
-HTML
-CSS
-JavaScript
+  HTML
+  CSS
+  JavaScript
 
 ### Back-end
-Python Programming Language
+  Python Programming Language
 
 <p style="color:blue;">All the future changes will be added in repository.</p>
